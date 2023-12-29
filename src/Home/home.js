@@ -36,7 +36,7 @@ const Home = () => {
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav m-auto me-0 mb-lg-0">
           <Link to={"/"}style={{textDecoration:'none'}}> <li class="nav-item">
-              HOME 
+              Home 
             </li>
             </Link>
             <Link to={"/Service"}style={{textDecoration:'none'}}> <li class="nav-item">

@@ -51,10 +51,11 @@ export default function contact() {
                 required
               />
             </div>
+            
             <div class="form-check mb-3">
               <label class="form-check-label">
-                <input class="form-check-input" type="checkbox" name="remember" />{" "}
-                Remember me
+                <input class="form-check-input" type="checkbox" name="remember" />{""}
+                <span className='check-by'>By clicking Sign Up. You agree to our terms of service and that you have read our Privacy Policy</span>
               </label>
             </div>
             <button type="submit" className="sbtn">
